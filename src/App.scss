@@ -1,16 +1,29 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #2D3537;
+  font-family: 'Exo', sans-serif;
+}
+
 .App {
   color: #FFF;
   text-align: center;
 }
 
 nav {
-  background-color: #505D6E;
-  .fl {
-  	float: left !important;
-  }
+	background-color: #495358 !important;
+	h1 {
+		color: #FFF !important;
+		font-size: 2em;
+	}
 }
 
 img {
-	text-align: center
+	display: block;
+	margin: 2% auto 0 auto;
+	border-radius: 5px;
+	border: 1px solid #000;
 }
 

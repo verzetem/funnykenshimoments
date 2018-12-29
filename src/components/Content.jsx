@@ -7,6 +7,7 @@ const Content = () => {
       <div>
 
         <img src="img/lol.gif" alt="picture"/>
+        <a class="button is-primary">Primary</a>
         
       </div>
 

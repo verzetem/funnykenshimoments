@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '../node_modules/materialize-css/dist/css/materialize.min.css'
+import '../node_modules/bulma/css/bulma.min.css'
 import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
